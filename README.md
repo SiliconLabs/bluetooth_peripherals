@@ -17,7 +17,6 @@ This repo contains example projects which demonstrate how to use various periphe
 
 ## Examples ##
 
-- Bluetooth Stack with UART in EM2
 - Low Energy Peripherals with BLE
 
 ## Documentation ##
