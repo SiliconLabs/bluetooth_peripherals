@@ -18,6 +18,7 @@ This repo contains example projects which demonstrate how to use various periphe
 ## Examples ##
 
 - Low Energy Peripherals with BLE
+- Using the Watchdog Peripheral in BLE applications
 
 ## Documentation ##
 
